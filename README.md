@@ -12,8 +12,7 @@ Este proyecto busca analizar los motivos por los cuales los clientes de Telecom 
 challenge-telecom-x-analisis-de-evasion-de-clientes/
 │
 ├── challenge-telecomx-analisis-evasion-clientes.ipynb  # Notebook principal con todo el análisis
-├── README.md                                           # Este archivo
-└── (otros archivos o recursos si los agregas)
+└── README.md                                           # Este archivo
 ```
 
 ---
